@@ -1,5 +1,10 @@
 import React from "react";
+import "./stylesButton1.css";
 
 export default function Button() {
-  return <div>Toto je novy gombik</div>;
+  return (
+    <div>
+      <button className="button1">Button 1</button>
+    </div>
+  );
 }

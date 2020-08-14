@@ -4,7 +4,7 @@ import Footer from "./modules/footer/Footer";
 import NavTabs from "./modules/Header/navBar";
 import Header from "./modules/Header/Header";
 import Grid from "@material-ui/core/Grid";
-import Button from "./components/button1";
+import Button from "./components/button1.jsx";
 
 function App() {
   return (

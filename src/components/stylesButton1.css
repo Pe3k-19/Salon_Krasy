@@ -1,0 +1,24 @@
+.button1 {
+  color: white;
+  width: 150px;
+  height: 40px;
+  background: #ff0081;
+  border-radius: 3px;
+  border: none;
+  text-align: center;
+  font-weight: bold;
+  margin: 500px;
+  box-shadow: 0 2px 25px rgba(255, 0, 130, 0.5);
+  cursor: pointer;
+}
+
+.button1:hover {
+  position: absolute;
+  display: block;
+  width: 10%;
+  height: 5%;
+}
+
+.button1:active {
+  border: none;
+}
