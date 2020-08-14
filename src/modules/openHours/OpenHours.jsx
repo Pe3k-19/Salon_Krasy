@@ -85,7 +85,7 @@ export default function OpenHours() {
                 <TableCell className={classes.tableHead}>
                   Deň v týždni
                 </TableCell>
-                <TableCell className={classes.tableHead} align="right">
+                <TableCell className={classes.tableHead} align="center">
                   Otvorené od
                 </TableCell>
                 <TableCell className={classes.tableHead} align="right">
@@ -103,7 +103,7 @@ export default function OpenHours() {
                   >
                     {row.day}
                   </TableCell>
-                  <TableCell className={classes.tableBodyTxt} align="right">
+                  <TableCell className={classes.tableBodyTxt} align="center">
                     {row.openFrom}
                   </TableCell>
                   <TableCell className={classes.tableBodyTxt} align="right">
