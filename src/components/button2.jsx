@@ -1,10 +1,9 @@
 import React from "react";
-import "./stylesButton1.css";
 
 export default function Button() {
   return (
     <div>
-      <button className="button1">Button 1</button>
+      <button className="button2">Button2</button>
     </div>
   );
 }
