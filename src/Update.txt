@@ -1,0 +1,2 @@
+PriceList.jsx  => Zjednotit tabulku a popis. Pridat extension panel z Material.test_materialUi.jsx
+OrderForm.jsx => Pridat Snackbar message namiesto obycajnej vety. 

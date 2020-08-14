@@ -1,0 +1,789 @@
+{
+   "columns":[
+      {
+         "associated_column":"code",
+         "data_type":"",
+         "text_value":"ID",
+         "visible":true
+      },
+      {
+         "associated_column":"code_ext",
+         "data_type":"",
+         "text_value":"Lokalizovaný kód",
+         "visible":true
+      },
+      {
+         "associated_column":"name_ext",
+         "data_type":"",
+         "text_value":"Lokalizovaný názov",
+         "visible":true
+      },
+      {
+         "associated_column":"search_column",
+         "data_type":"",
+         "text_value":"",
+         "visible":false
+      },
+      {
+         "associated_column":"parent_code",
+         "data_type":"",
+         "text_value":"",
+         "visible":false
+      },
+      {
+         "associated_column":"item_order",
+         "data_type":"",
+         "text_value":"",
+         "visible":false
+      }
+   ],
+   "filters":[
+      {
+         "associated_column":"search_column",
+         "caption":"Vyhľadať",
+         "predicate":"=",
+         "values":[
+
+         ]
+      },
+      {
+         "associated_column":"code",
+         "caption":"ID",
+         "predicate":"=",
+         "values":[
+
+         ]
+      },
+      {
+         "associated_column":"code_ext",
+         "caption":"Kód",
+         "predicate":"=",
+         "values":[
+
+         ]
+      },
+      {
+         "associated_column":"code_ext",
+         "caption":"Kód začína na",
+         "predicate":"S*",
+         "values":[
+
+         ]
+      }
+   ],
+   "light":false,
+   "orders":[
+
+   ],
+   "request":{
+      "filters":[
+
+      ],
+      "light":false,
+      "orders":[
+
+      ],
+      "row_count_full":10000,
+      "row_count_show":10000,
+      "row_offset":1
+   },
+   "rows":[
+      {
+         "_id":"161790",
+         "code":"161790",
+         "code_ext":"1",
+         "description":"kostná dlažka",
+         "item_order":null,
+         "name_ext":"kostná dlažka",
+         "parent_code":"",
+         "search_column":"1 kostna dlazka"
+      },
+      {
+         "_id":"161791",
+         "code":"161791",
+         "code_ext":"10",
+         "description":"kostná skrutka",
+         "item_order":null,
+         "name_ext":"kostná skrutka",
+         "parent_code":"",
+         "search_column":"10 kostna skrutka"
+      },
+      {
+         "_id":"161792",
+         "code":"161792",
+         "code_ext":"11",
+         "description":"implantovateľný defibrilátor",
+         "item_order":null,
+         "name_ext":"implantovateľný defibrilátor",
+         "parent_code":"",
+         "search_column":"11 implantovatelny defibrilator"
+      },
+      {
+         "_id":"161793",
+         "code":"161793",
+         "code_ext":"12",
+         "description":"končatinová protéza",
+         "item_order":null,
+         "name_ext":"končatinová protéza",
+         "parent_code":"",
+         "search_column":"12 koncatinova proteza"
+      },
+      {
+         "_id":"161794",
+         "code":"161794",
+         "code_ext":"13",
+         "description":"kostný klinec",
+         "item_order":null,
+         "name_ext":"kostný klinec",
+         "parent_code":"",
+         "search_column":"13 kostny klinec"
+      },
+      {
+         "_id":"161795",
+         "code":"161795",
+         "code_ext":"14",
+         "description":"kostná skoba",
+         "item_order":null,
+         "name_ext":"kostná skoba",
+         "parent_code":"",
+         "search_column":"14 kostna skoba"
+      },
+      {
+         "_id":"161796",
+         "code":"161796",
+         "code_ext":"15",
+         "description":"náhrada aortálnej chlopne",
+         "item_order":null,
+         "name_ext":"náhrada aortálnej chlopne",
+         "parent_code":"",
+         "search_column":"15 nahrada aortalnej chlopne"
+      },
+      {
+         "_id":"161797",
+         "code":"161797",
+         "code_ext":"16",
+         "description":"kovový periosteálny implantát",
+         "item_order":null,
+         "name_ext":"kovový periosteálny implantát",
+         "parent_code":"",
+         "search_column":"16 kovovy periostealny implantat"
+      },
+      {
+         "_id":"161798",
+         "code":"161798",
+         "code_ext":"17",
+         "description":"cievna protéza",
+         "item_order":null,
+         "name_ext":"cievna protéza",
+         "parent_code":"",
+         "search_column":"17 cievna proteza"
+      },
+      {
+         "_id":"161799",
+         "code":"161799",
+         "code_ext":"18",
+         "description":"embolizačná špirálka",
+         "item_order":null,
+         "name_ext":"embolizačná špirálka",
+         "parent_code":"",
+         "search_column":"18 embolizacna spiralka"
+      },
+      {
+         "_id":"161800",
+         "code":"161800",
+         "code_ext":"19",
+         "description":"silikónový implantát",
+         "item_order":null,
+         "name_ext":"silikónový implantát",
+         "parent_code":"",
+         "search_column":"19 silikonovy implantat"
+      },
+      {
+         "_id":"161801",
+         "code":"161801",
+         "code_ext":"2",
+         "description":"náhrada prsníka",
+         "item_order":null,
+         "name_ext":"náhrada prsníka",
+         "parent_code":"",
+         "search_column":"2 nahrada prsnika"
+      },
+      {
+         "_id":"161802",
+         "code":"161802",
+         "code_ext":"20",
+         "description":"neurostimulačné zariadenie",
+         "item_order":null,
+         "name_ext":"neurostimulačné zariadenie",
+         "parent_code":"",
+         "search_column":"20 neurostimulacne zariadenie"
+      },
+      {
+         "_id":"161803",
+         "code":"161803",
+         "code_ext":"21",
+         "description":"ventrikulárny rezervoár",
+         "item_order":null,
+         "name_ext":"ventrikulárny rezervoár",
+         "parent_code":"",
+         "search_column":"21 ventrikularny rezervoar"
+      },
+      {
+         "_id":"161804",
+         "code":"161804",
+         "code_ext":"22",
+         "description":"spinálna klietka",
+         "item_order":null,
+         "name_ext":"spinálna klietka",
+         "parent_code":"",
+         "search_column":"22 spinalna klietka"
+      },
+      {
+         "_id":"161805",
+         "code":"161805",
+         "code_ext":"23",
+         "description":"bezchlopňový konduit",
+         "item_order":null,
+         "name_ext":"bezchlopňový konduit",
+         "parent_code":"",
+         "search_column":"23 bezchlopnovy konduit"
+      },
+      {
+         "_id":"161806",
+         "code":"161806",
+         "code_ext":"24",
+         "description":"srdcový konduit s chlopňou",
+         "item_order":null,
+         "name_ext":"srdcový konduit s chlopňou",
+         "parent_code":"",
+         "search_column":"24 srdcovy konduit s chlopnou"
+      },
+      {
+         "_id":"161807",
+         "code":"161807",
+         "code_ext":"25",
+         "description":"srdcová chlopňa - xenograft",
+         "item_order":null,
+         "name_ext":"srdcová chlopňa - xenograft",
+         "parent_code":"",
+         "search_column":"25 srdcova chlopna - xenograft"
+      },
+      {
+         "_id":"161808",
+         "code":"161808",
+         "code_ext":"26",
+         "description":"JJ-stent",
+         "item_order":null,
+         "name_ext":"JJ-stent",
+         "parent_code":"",
+         "search_column":"26 jj-stent"
+      },
+      {
+         "_id":"161809",
+         "code":"161809",
+         "code_ext":"27",
+         "description":"komorový shunt",
+         "item_order":null,
+         "name_ext":"komorový shunt",
+         "parent_code":"",
+         "search_column":"27 komorovy shunt"
+      },
+      {
+         "_id":"161810",
+         "code":"161810",
+         "code_ext":"28",
+         "description":"srdcový konduit",
+         "item_order":null,
+         "name_ext":"srdcový konduit",
+         "parent_code":"",
+         "search_column":"28 srdcovy konduit"
+      },
+      {
+         "_id":"161811",
+         "code":"161811",
+         "code_ext":"29",
+         "description":"tvárovočeľustná protéza/aparát",
+         "item_order":null,
+         "name_ext":"tvárovočeľustná protéza/aparát",
+         "parent_code":"",
+         "search_column":"29 tvarovocelustna proteza/aparat"
+      },
+      {
+         "_id":"161812",
+         "code":"161812",
+         "code_ext":"3",
+         "description":"protéza mitrálnej chlopne",
+         "item_order":null,
+         "name_ext":"protéza mitrálnej chlopne",
+         "parent_code":"",
+         "search_column":"3 proteza mitralnej chlopne"
+      },
+      {
+         "_id":"161813",
+         "code":"161813",
+         "code_ext":"30",
+         "description":"ureterálny stent",
+         "item_order":null,
+         "name_ext":"ureterálny stent",
+         "parent_code":"",
+         "search_column":"30 ureteralny stent"
+      },
+      {
+         "_id":"161814",
+         "code":"161814",
+         "code_ext":"31",
+         "description":"uretrálny stent",
+         "item_order":null,
+         "name_ext":"uretrálny stent",
+         "parent_code":"",
+         "search_column":"31 uretralny stent"
+      },
+      {
+         "_id":"161815",
+         "code":"161815",
+         "code_ext":"32",
+         "description":"náhrada vajíčkovodu",
+         "item_order":null,
+         "name_ext":"náhrada vajíčkovodu",
+         "parent_code":"",
+         "search_column":"32 nahrada vajickovodu"
+      },
+      {
+         "_id":"161816",
+         "code":"161816",
+         "code_ext":"33",
+         "description":"kardiovaskulárny implantát",
+         "item_order":null,
+         "name_ext":"kardiovaskulárny implantát",
+         "parent_code":"",
+         "search_column":"33 kardiovaskularny implantat"
+      },
+      {
+         "_id":"161817",
+         "code":"161817",
+         "code_ext":"34",
+         "description":"urogenitálny implantát",
+         "item_order":null,
+         "name_ext":"urogenitálny implantát",
+         "parent_code":"",
+         "search_column":"34 urogenitalny implantat"
+      },
+      {
+         "_id":"161818",
+         "code":"161818",
+         "code_ext":"35",
+         "description":"gastrointestinálny implantát",
+         "item_order":null,
+         "name_ext":"gastrointestinálny implantát",
+         "parent_code":"",
+         "search_column":"35 gastrointestinalny implantat"
+      },
+      {
+         "_id":"161819",
+         "code":"161819",
+         "code_ext":"36",
+         "description":"vnútroušný implantát",
+         "item_order":null,
+         "name_ext":"vnútroušný implantát",
+         "parent_code":"",
+         "search_column":"36 vnutrousny implantat"
+      },
+      {
+         "_id":"161820",
+         "code":"161820",
+         "code_ext":"37",
+         "description":"muskuloskeletálny implantát",
+         "item_order":null,
+         "name_ext":"muskuloskeletálny implantát",
+         "parent_code":"",
+         "search_column":"37 muskuloskeletalny implantat"
+      },
+      {
+         "_id":"161821",
+         "code":"161821",
+         "code_ext":"38",
+         "description":"očnicový implantát",
+         "item_order":null,
+         "name_ext":"očnicový implantát",
+         "parent_code":"",
+         "search_column":"38 ocnicovy implantat"
+      },
+      {
+         "_id":"161822",
+         "code":"161822",
+         "code_ext":"39",
+         "description":"implantát bedrového kĺbu",
+         "item_order":null,
+         "name_ext":"implantát bedrového kĺbu",
+         "parent_code":"",
+         "search_column":"39 implantat bedroveho klbu"
+      },
+      {
+         "_id":"161823",
+         "code":"161823",
+         "code_ext":"4",
+         "description":"umelá náhrada srdcovej chlopne",
+         "item_order":null,
+         "name_ext":"umelá náhrada srdcovej chlopne",
+         "parent_code":"",
+         "search_column":"4 umela nahrada srdcovej chlopne"
+      },
+      {
+         "_id":"161824",
+         "code":"161824",
+         "code_ext":"40",
+         "description":"očný implantát",
+         "item_order":null,
+         "name_ext":"očný implantát",
+         "parent_code":"",
+         "search_column":"40 ocny implantat"
+      },
+      {
+         "_id":"161825",
+         "code":"161825",
+         "code_ext":"41",
+         "description":"cievny implantát",
+         "item_order":null,
+         "name_ext":"cievny implantát",
+         "parent_code":"",
+         "search_column":"41 cievny implantat"
+      },
+      {
+         "_id":"161826",
+         "code":"161826",
+         "code_ext":"42",
+         "description":"implantát v nervovom systéme",
+         "item_order":null,
+         "name_ext":"implantát v nervovom systéme",
+         "parent_code":"",
+         "search_column":"42 implantat v nervovom systeme"
+      },
+      {
+         "_id":"161827",
+         "code":"161827",
+         "code_ext":"43",
+         "description":"srdcový implantát",
+         "item_order":null,
+         "name_ext":"srdcový implantát",
+         "parent_code":"",
+         "search_column":"43 srdcovy implantat"
+      },
+      {
+         "_id":"161828",
+         "code":"161828",
+         "code_ext":"44",
+         "description":"endoprotéza ramenného kĺbu",
+         "item_order":null,
+         "name_ext":"endoprotéza ramenného kĺbu",
+         "parent_code":"",
+         "search_column":"44 endoproteza ramenneho klbu"
+      },
+      {
+         "_id":"161829",
+         "code":"161829",
+         "code_ext":"45",
+         "description":"tyčový fixačný systém",
+         "item_order":null,
+         "name_ext":"tyčový fixačný systém",
+         "parent_code":"",
+         "search_column":"45 tycovy fixacny system"
+      },
+      {
+         "_id":"161830",
+         "code":"161830",
+         "code_ext":"46",
+         "description":"implantát v stene tela",
+         "item_order":null,
+         "name_ext":"implantát v stene tela",
+         "parent_code":"",
+         "search_column":"46 implantat v stene tela"
+      },
+      {
+         "_id":"161831",
+         "code":"161831",
+         "code_ext":"47",
+         "description":"totálna endoprotéza bedrového kĺbu",
+         "item_order":null,
+         "name_ext":"totálna endoprotéza bedrového kĺbu",
+         "parent_code":"",
+         "search_column":"47 totalna endoproteza bedroveho klbu"
+      },
+      {
+         "_id":"161832",
+         "code":"161832",
+         "code_ext":"48",
+         "description":"náhrada hlavice stehnovej kosti",
+         "item_order":null,
+         "name_ext":"náhrada hlavice stehnovej kosti",
+         "parent_code":"",
+         "search_column":"48 nahrada hlavice stehnovej kosti"
+      },
+      {
+         "_id":"161833",
+         "code":"161833",
+         "code_ext":"49",
+         "description":"implantát ramenného kĺbu",
+         "item_order":null,
+         "name_ext":"implantát ramenného kĺbu",
+         "parent_code":"",
+         "search_column":"49 implantat ramenneho klbu"
+      },
+      {
+         "_id":"161834",
+         "code":"161834",
+         "code_ext":"5",
+         "description":"ortopedický vnútorný fixačný systém",
+         "item_order":null,
+         "name_ext":"ortopedický vnútorný fixačný systém",
+         "parent_code":"",
+         "search_column":"5 ortopedicky vnutorny fixacny system"
+      },
+      {
+         "_id":"161835",
+         "code":"161835",
+         "code_ext":"50",
+         "description":"implantát členkového kĺbu",
+         "item_order":null,
+         "name_ext":"implantát členkového kĺbu",
+         "parent_code":"",
+         "search_column":"50 implantat clenkoveho klbu"
+      },
+      {
+         "_id":"161836",
+         "code":"161836",
+         "code_ext":"51",
+         "description":"implantát kĺbu nohy",
+         "item_order":null,
+         "name_ext":"implantát kĺbu nohy",
+         "parent_code":"",
+         "search_column":"51 implantat klbu nohy"
+      },
+      {
+         "_id":"161837",
+         "code":"161837",
+         "code_ext":"52",
+         "description":"implantát kĺbu ruky",
+         "item_order":null,
+         "name_ext":"implantát kĺbu ruky",
+         "parent_code":"",
+         "search_column":"52 implantat klbu ruky"
+      },
+      {
+         "_id":"161838",
+         "code":"161838",
+         "code_ext":"53",
+         "description":"kĺbový implantát",
+         "item_order":null,
+         "name_ext":"kĺbový implantát",
+         "parent_code":"",
+         "search_column":"53 klbovy implantat"
+      },
+      {
+         "_id":"161839",
+         "code":"161839",
+         "code_ext":"54",
+         "description":"implantovaný systém uvoľňovania liekov",
+         "item_order":null,
+         "name_ext":"implantovaný systém uvoľňovania liekov",
+         "parent_code":"",
+         "search_column":"54 implantovany system uvolnovania liekov"
+      },
+      {
+         "_id":"161840",
+         "code":"161840",
+         "code_ext":"55",
+         "description":"arteriálny stent",
+         "item_order":null,
+         "name_ext":"arteriálny stent",
+         "parent_code":"",
+         "search_column":"55 arterialny stent"
+      },
+      {
+         "_id":"161841",
+         "code":"161841",
+         "code_ext":"56",
+         "description":"vnútrokomorová pumpa",
+         "item_order":null,
+         "name_ext":"vnútrokomorová pumpa",
+         "parent_code":"",
+         "search_column":"56 vnutrokomorova pumpa"
+      },
+      {
+         "_id":"161842",
+         "code":"161842",
+         "code_ext":"57",
+         "description":"laryngeálny implantát",
+         "item_order":null,
+         "name_ext":"laryngeálny implantát",
+         "parent_code":"",
+         "search_column":"57 laryngealny implantat"
+      },
+      {
+         "_id":"161843",
+         "code":"161843",
+         "code_ext":"58",
+         "description":"tracheálny stent",
+         "item_order":null,
+         "name_ext":"tracheálny stent",
+         "parent_code":"",
+         "search_column":"58 trachealny stent"
+      },
+      {
+         "_id":"161844",
+         "code":"161844",
+         "code_ext":"59",
+         "description":"intragastrický balón",
+         "item_order":null,
+         "name_ext":"intragastrický balón",
+         "parent_code":"",
+         "search_column":"59 intragastricky balon"
+      },
+      {
+         "_id":"161845",
+         "code":"161845",
+         "code_ext":"6",
+         "description":"peritoneálny dialyzátor",
+         "item_order":null,
+         "name_ext":"peritoneálny dialyzátor",
+         "parent_code":"",
+         "search_column":"6 peritonealny dialyzator"
+      },
+      {
+         "_id":"161846",
+         "code":"161846",
+         "code_ext":"60",
+         "description":"biliárny stent",
+         "item_order":null,
+         "name_ext":"biliárny stent",
+         "parent_code":"",
+         "search_column":"60 biliarny stent"
+      },
+      {
+         "_id":"161847",
+         "code":"161847",
+         "code_ext":"61",
+         "description":"kostná protéza",
+         "item_order":null,
+         "name_ext":"kostná protéza",
+         "parent_code":"",
+         "search_column":"61 kostna proteza"
+      },
+      {
+         "_id":"161848",
+         "code":"161848",
+         "code_ext":"62",
+         "description":"dakronový štep",
+         "item_order":null,
+         "name_ext":"dakronový štep",
+         "parent_code":"",
+         "search_column":"62 dakronovy step"
+      },
+      {
+         "_id":"161849",
+         "code":"161849",
+         "code_ext":"63",
+         "description":"karotický stent",
+         "item_order":null,
+         "name_ext":"karotický stent",
+         "parent_code":"",
+         "search_column":"63 karoticky stent"
+      },
+      {
+         "_id":"161850",
+         "code":"161850",
+         "code_ext":"64",
+         "description":"laryngeálny kýl",
+         "item_order":null,
+         "name_ext":"laryngeálny kýl",
+         "parent_code":"",
+         "search_column":"64 laryngealny kyl"
+      },
+      {
+         "_id":"161851",
+         "code":"161851",
+         "code_ext":"65",
+         "description":"implantát očnej gule",
+         "item_order":null,
+         "name_ext":"implantát očnej gule",
+         "parent_code":"",
+         "search_column":"65 implantat ocnej gule"
+      },
+      {
+         "_id":"161852",
+         "code":"161852",
+         "code_ext":"66",
+         "description":"protéza pulmonálnej chlopne",
+         "item_order":null,
+         "name_ext":"protéza pulmonálnej chlopne",
+         "parent_code":"",
+         "search_column":"66 proteza pulmonalnej chlopne"
+      },
+      {
+         "_id":"161853",
+         "code":"161853",
+         "code_ext":"67",
+         "description":"trvalý kardiostimulátor, prístroj",
+         "item_order":null,
+         "name_ext":"trvalý kardiostimulátor, prístroj",
+         "parent_code":"",
+         "search_column":"67 trvaly kardiostimulator, pristroj"
+      },
+      {
+         "_id":"161854",
+         "code":"161854",
+         "code_ext":"68",
+         "description":"umelá medzistavcová platnička",
+         "item_order":null,
+         "name_ext":"umelá medzistavcová platnička",
+         "parent_code":"",
+         "search_column":"68 umela medzistavcova platnicka"
+      },
+      {
+         "_id":"161855",
+         "code":"161855",
+         "code_ext":"69",
+         "description":"kochleárny implantát",
+         "item_order":null,
+         "name_ext":"kochleárny implantát",
+         "parent_code":"",
+         "search_column":"69 kochlearny implantat"
+      },
+      {
+         "_id":"161856",
+         "code":"161856",
+         "code_ext":"7",
+         "description":"drôt na fixáciu kostí",
+         "item_order":null,
+         "name_ext":"drôt na fixáciu kostí",
+         "parent_code":"",
+         "search_column":"7 drot na fixaciu kosti"
+      },
+      {
+         "_id":"161857",
+         "code":"161857",
+         "code_ext":"8",
+         "description":"chirurgický kovový klinec",
+         "item_order":null,
+         "name_ext":"chirurgický kovový klinec",
+         "parent_code":"",
+         "search_column":"8 chirurgicky kovovy klinec"
+      },
+      {
+         "_id":"161858",
+         "code":"161858",
+         "code_ext":"9",
+         "description":"endoprotéza bedrového kĺbu",
+         "item_order":null,
+         "name_ext":"endoprotéza bedrového kĺbu",
+         "parent_code":"",
+         "search_column":"9 endoproteza bedroveho klbu"
+      }
+   ],
+   "row_count_full":69,
+   "row_count_show":69,
+   "row_more":false,
+   "row_offset":1,
+   "tags":[
+
+   ]
+}

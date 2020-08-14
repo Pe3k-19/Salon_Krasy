@@ -1,0 +1,126 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.App {
+  background-image: url(./image/container1.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+.header {
+  height: 50px;
+  background-color: #182628;
+  opacity: 0.8;
+  color: #f2f2f2;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.heading {
+  color: #8bf399;
+  font-weight: bold;
+  font-family: "Tangerine";
+  font-size: 200px;
+  text-shadow: 4px 4px 4px #aaa;
+  padding-top: 70px;
+  padding-bottom: 20px;
+}
+
+.novinky {
+  width: 100%;
+  height: auto;
+  background-color: #18262880;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 80px;
+  float: left;
+  padding: 30px;
+  border-radius: 5px;
+}
+
+.pic1 {
+  width: 350px;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-image: url(./image/face1.jpg);
+  padding: 0;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  float: left;
+  border-radius: 50%;
+  margin-right: 2rem;
+}
+
+.pic2 {
+  width: 256px;
+  height: 256px;
+  background-repeat: no-repeat;
+  background-image: url(./image/gal7.png);
+  padding: 0;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  float: right;
+  margin-left: 2rem;
+}
+
+.pic3 {
+  background-image: url(./image/woman1.png);
+  background-size: 100px 100px;
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 10px;
+}
+
+.pic4 {
+  background-image: url(./image/woman2.png);
+  background-size: 100px 100px;
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 10px;
+}
+
+.pic5 {
+  background-image: url(./image/woman3.png);
+  background-size: 100px 100px;
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 10px;
+}
+
+.pic6 {
+  background-image: url(./image/woman4.png);
+  background-size: 100px 100px;
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 10px;
+}
+
+#circle-image {
+  -webkit-shape-outside: circle();
+  shape-outside: circle();
+}
+
+h1 {
+  text-align: center;
+}
+h6 {
+  font-size: 16px;
+}
+
+.gallery img {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 20px;
+}
+
+.footer {
+  background-color: #182628;
+  opacity: 0.8;
+  display: inline-block;
+}

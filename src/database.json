@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Janka Malá",
+    "date": "17.02.2020",
+    "time": "09:20",
+    "login": "vzor",
+    "service": "Líčenie",
+    "phone": "+421 903 030 049"
+  },
+  {
+    "id": 2,
+    "name": "Anička Borovicová",
+    "date": "18.02.2020",
+    "time": "10:10",
+    "login": "vzor",
+    "service": "MakeUp",
+    "phone": "+421 433 037 047"
+  },
+  {
+    "id": 3,
+    "name": "Jožka Bíla",
+    "date": "18.02.2020",
+    "time": "14:30",
+    "login": "vzor",
+    "service": "4D Mihalnice",
+    "phone": "+421 912 444 045"
+  },
+  {
+    "id": 4,
+    "name": "Andrea Majkutová",
+    "date": "19.02.2020",
+    "time": "09:40",
+    "login": "vzor",
+    "service": "Líčenie",
+    "phone": "+421 983 636 088"
+  },
+  {
+    "id": 5,
+    "name": "Monika Pribilinová",
+    "date": "19.02.2020",
+    "time": "12:10",
+    "login": "vzor",
+    "service": "Úprava obočia",
+    "phone": "+421 988 675 345"
+  }
+]

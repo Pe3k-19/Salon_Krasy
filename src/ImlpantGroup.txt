@@ -1,0 +1,329 @@
+{
+   "columns":[
+      {
+         "associated_column":"code",
+         "data_type":"",
+         "text_value":"ID",
+         "visible":true
+      },
+      {
+         "associated_column":"code_ext",
+         "data_type":"",
+         "text_value":"Lokalizovaný kód",
+         "visible":true
+      },
+      {
+         "associated_column":"name_ext",
+         "data_type":"",
+         "text_value":"Lokalizovaný názov",
+         "visible":true
+      },
+      {
+         "associated_column":"search_column",
+         "data_type":"",
+         "text_value":"",
+         "visible":false
+      },
+      {
+         "associated_column":"parent_code",
+         "data_type":"",
+         "text_value":"",
+         "visible":false
+      },
+      {
+         "associated_column":"item_order",
+         "data_type":"",
+         "text_value":"",
+         "visible":false
+      }
+   ],
+   "filters":[
+      {
+         "associated_column":"search_column",
+         "caption":"Vyhľadať",
+         "predicate":"=",
+         "values":[
+
+         ]
+      },
+      {
+         "associated_column":"code",
+         "caption":"ID",
+         "predicate":"=",
+         "values":[
+
+         ]
+      },
+      {
+         "associated_column":"code_ext",
+         "caption":"Kód",
+         "predicate":"=",
+         "values":[
+
+         ]
+      },
+      {
+         "associated_column":"code_ext",
+         "caption":"Kód začína na",
+         "predicate":"S*",
+         "values":[
+
+         ]
+      }
+   ],
+   "light":false,
+   "orders":[
+
+   ],
+   "request":{
+      "filters":[
+
+      ],
+      "light":false,
+      "orders":[
+
+      ],
+      "row_count_full":10000,
+      "row_count_show":10000,
+      "row_offset":1
+   },
+   "rows":[
+      {
+         "_id":"213361",
+         "code":"213361",
+         "code_ext":"0+",
+         "description":"0 RhD pozitívna",
+         "item_order":null,
+         "name_ext":"0 RhD pozitívna",
+         "parent_code":"",
+         "search_column":"0+ 0 rhd pozitivna"
+      },
+      {
+         "_id":"213362",
+         "code":"213362",
+         "code_ext":"0-",
+         "description":"0 RhD negatívna",
+         "item_order":null,
+         "name_ext":"0 RhD negatívna",
+         "parent_code":"",
+         "search_column":"0- 0 rhd negativna"
+      },
+      {
+         "_id":"213363",
+         "code":"213363",
+         "code_ext":"0W",
+         "description":"0 RhD w/v",
+         "item_order":null,
+         "name_ext":"0 RhD w/v",
+         "parent_code":"",
+         "search_column":"0w 0 rhd w/v"
+      },
+      {
+         "_id":"213364",
+         "code":"213364",
+         "code_ext":"A+",
+         "description":"A RhD  pozitívna",
+         "item_order":null,
+         "name_ext":"A RhD  pozitívna",
+         "parent_code":"",
+         "search_column":"a+ a rhd pozitivna"
+      },
+      {
+         "_id":"213365",
+         "code":"213365",
+         "code_ext":"A-",
+         "description":"A RhD negatívna",
+         "item_order":null,
+         "name_ext":"A RhD negatívna",
+         "parent_code":"",
+         "search_column":"a- a rhd negativna"
+      },
+      {
+         "_id":"213366",
+         "code":"213366",
+         "code_ext":"A1+",
+         "description":"A1 RhD pozitívna",
+         "item_order":null,
+         "name_ext":"A1 RhD pozitívna",
+         "parent_code":"",
+         "search_column":"a1+ a1 rhd pozitivna"
+      },
+      {
+         "_id":"213367",
+         "code":"213367",
+         "code_ext":"A1-",
+         "description":"A1 RhD  negatívna",
+         "item_order":null,
+         "name_ext":"A1 RhD  negatívna",
+         "parent_code":"",
+         "search_column":"a1- a1 rhd negativna"
+      },
+      {
+         "_id":"213368",
+         "code":"213368",
+         "code_ext":"A1B+",
+         "description":"A1B RhD pozitívna",
+         "item_order":null,
+         "name_ext":"A1B RhD pozitívna",
+         "parent_code":"",
+         "search_column":"a1b+ a1b rhd pozitivna"
+      },
+      {
+         "_id":"213369",
+         "code":"213369",
+         "code_ext":"A1B-",
+         "description":"A1B RhD  negatívna",
+         "item_order":null,
+         "name_ext":"A1B RhD  negatívna",
+         "parent_code":"",
+         "search_column":"a1b- a1b rhd negativna"
+      },
+      {
+         "_id":"213370",
+         "code":"213370",
+         "code_ext":"A1BW",
+         "description":"A1B RhD w/v",
+         "item_order":null,
+         "name_ext":"A1B RhD w/v",
+         "parent_code":"",
+         "search_column":"a1bw a1b rhd w/v"
+      },
+      {
+         "_id":"213371",
+         "code":"213371",
+         "code_ext":"A1W",
+         "description":"A1 RhD w/v",
+         "item_order":null,
+         "name_ext":"A1 RhD w/v",
+         "parent_code":"",
+         "search_column":"a1w a1 rhd w/v"
+      },
+      {
+         "_id":"213372",
+         "code":"213372",
+         "code_ext":"A2+",
+         "description":"A2 RhD pozitívna",
+         "item_order":null,
+         "name_ext":"A2 RhD pozitívna",
+         "parent_code":"",
+         "search_column":"a2+ a2 rhd pozitivna"
+      },
+      {
+         "_id":"213373",
+         "code":"213373",
+         "code_ext":"A2-",
+         "description":"A2 RhD  negatívna",
+         "item_order":null,
+         "name_ext":"A2 RhD  negatívna",
+         "parent_code":"",
+         "search_column":"a2- a2 rhd negativna"
+      },
+      {
+         "_id":"213374",
+         "code":"213374",
+         "code_ext":"A2B+",
+         "description":"A2B RhD pozitívna",
+         "item_order":null,
+         "name_ext":"A2B RhD pozitívna",
+         "parent_code":"",
+         "search_column":"a2b+ a2b rhd pozitivna"
+      },
+      {
+         "_id":"213375",
+         "code":"213375",
+         "code_ext":"A2B-",
+         "description":"A2B  negatívna",
+         "item_order":null,
+         "name_ext":"A2B  negatívna",
+         "parent_code":"",
+         "search_column":"a2b- a2b negativna"
+      },
+      {
+         "_id":"213376",
+         "code":"213376",
+         "code_ext":"A2W",
+         "description":"A2 RhD w/v",
+         "item_order":null,
+         "name_ext":"A2 RhD w/v",
+         "parent_code":"",
+         "search_column":"a2w a2 rhd w/v"
+      },
+      {
+         "_id":"213377",
+         "code":"213377",
+         "code_ext":"AB+",
+         "description":"AB RhD pozitívna",
+         "item_order":null,
+         "name_ext":"AB RhD pozitívna",
+         "parent_code":"",
+         "search_column":"ab+ ab rhd pozitivna"
+      },
+      {
+         "_id":"213378",
+         "code":"213378",
+         "code_ext":"AB-",
+         "description":"AB RhD negatívna",
+         "item_order":null,
+         "name_ext":"AB RhD negatívna",
+         "parent_code":"",
+         "search_column":"ab- ab rhd negativna"
+      },
+      {
+         "_id":"213379",
+         "code":"213379",
+         "code_ext":"ABW",
+         "description":"AB RhD w/v",
+         "item_order":null,
+         "name_ext":"AB RhD w/v",
+         "parent_code":"",
+         "search_column":"abw ab rhd w/v"
+      },
+      {
+         "_id":"213380",
+         "code":"213380",
+         "code_ext":"AW",
+         "description":"A RhD w/v",
+         "item_order":null,
+         "name_ext":"A RhD w/v",
+         "parent_code":"",
+         "search_column":"aw a rhd w/v"
+      },
+      {
+         "_id":"213381",
+         "code":"213381",
+         "code_ext":"B+",
+         "description":"B RhD pozitívna",
+         "item_order":null,
+         "name_ext":"B RhD pozitívna",
+         "parent_code":"",
+         "search_column":"b+ b rhd pozitivna"
+      },
+      {
+         "_id":"213382",
+         "code":"213382",
+         "code_ext":"B-",
+         "description":"B RhD negatívna",
+         "item_order":null,
+         "name_ext":"B RhD negatívna",
+         "parent_code":"",
+         "search_column":"b- b rhd negativna"
+      },
+      {
+         "_id":"213383",
+         "code":"213383",
+         "code_ext":"BW",
+         "description":"B RhD w/v",
+         "item_order":null,
+         "name_ext":"B RhD w/v",
+         "parent_code":"",
+         "search_column":"bw b rhd w/v"
+      }
+   ],
+   "row_count_full":23,
+   "row_count_show":23,
+   "row_more":false,
+   "row_offset":1,
+   "tags":[
+
+   ]
+}
